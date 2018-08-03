@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/* You can add global styles to this file, and also import other style files */\n"
+module.exports = "/* You can add global styles to this file, and also import other style files */\n.word-search-list{list-style-type: none;}\nul.word-search-list{    position: absolute;\n    background: #D3D3D3;\n    width: 132px;\n    margin-top: -1px;\n}\n.word-search-list li{ \n    text-align: right;\n    margin-left: -48px;\n    float: none;\n    line-height: 1px;\n    width: 100%;\n}\n.word-search-list li:hover{ \n    background-color: red;\n}\n.word-search-list li a{ \n    padding: 2px;\n}\n"
 
 /***/ }),
 
